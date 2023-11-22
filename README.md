@@ -15,6 +15,9 @@
  
   Hey there <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmVxbXA3OTFkdWJqcjh0cXRtYzAxN3oyYTNzd2tzemtnN21ub3Q0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" alt="" width="30px"/>
   </div>
+  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ### :man_technologist: About Me :
 I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
