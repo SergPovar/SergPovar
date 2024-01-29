@@ -10,7 +10,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SergPovar&style=flat-square&color=blue" alt=""/>
+ 
   
  
   Hey there <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmVxbXA3OTFkdWJqcjh0cXRtYzAxN3oyYTNzd2tzemtnN21ub3Q0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" alt="" width="30px"/>
